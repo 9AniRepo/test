@@ -1,0 +1,12 @@
+Origin: 9AniRepo
+Label: 9AniRepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: APT repo for NineAnimator
+
+SHA256:
+ e54b2d077de612cea961a6debd57862817976011d44b19f626bfb575d066c5df 1582 Packages.bz2
+ fa851621d3d143924224d63ba31445411306b11714f026ea388e7dd5bcad5717 1488 Packages.xz
